@@ -1,5 +1,1 @@
-# Arc Games
-#
-# Arc Client
 dlpatch.arcgames.com
-
