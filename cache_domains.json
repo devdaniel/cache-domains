@@ -97,6 +97,11 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"],
 			"mixed_content": true
+		},
+		{
+			"name": "Arc Games",
+			"description": "CDN for arcgames.com",
+			"domain_files": ["arcgames.txt"]
 		}
 	]
 }
