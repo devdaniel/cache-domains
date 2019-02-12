@@ -99,7 +99,7 @@
 			"mixed_content": true
 		},
 		{
-			"name": "Arc Games",
+			"name": "arcgames",
 			"description": "CDN for arcgames.com",
 			"domain_files": ["arcgames.txt"]
 		}
