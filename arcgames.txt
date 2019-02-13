@@ -1,2 +1,3 @@
 dlpatch.arcgames.com
+dlpatchl3.arcgames.com
 pcsd.perfectworld.com
