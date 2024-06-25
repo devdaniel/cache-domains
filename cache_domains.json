@@ -93,6 +93,11 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
+			"name": "steamserver",
+			"description": "CND for steam servers",
+			"domain_files": ["steamserver.txt"]
+		},
+		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
