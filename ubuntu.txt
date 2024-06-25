@@ -1,0 +1,2 @@
+mirrors.ubuntu.com
+archive.ubuntu.com
