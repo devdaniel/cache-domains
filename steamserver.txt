@@ -1,1 +1,2 @@
+edge.steam-dns.top.comcast.net
 *.steamserver.net
